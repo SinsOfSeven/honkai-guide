@@ -354,12 +354,14 @@ const valkToChinese = {
   "Spina Astera (SpA)": ["星", "星棘", "缭乱星棘"],
   "Starchasm Nyx": ["魇夜星渊", "冰希"],
   "Starlit Astrologos (SA, Zhuge)": ["朔夜观星", "观"],
+  "Starry Impression (SI) Griseo" : ["格","格蕾修"],
   "Stygian Nymph (SN)": ["黑希", "希"], // 彼岸双生
   "Swallowtail Phantasm (SP)": ["幻海梦蝶", "A希"],
   "Triumph (VT)": ["凯"],
   "Umbral Rose (UR)": ["黯"],
   "Valkyrie Gloria (VG)": ["荣光", "女武神·荣光"],
   "Vermillion Knight (VK)": ["真"],
+  "Vill-V" : ["维尔薇","V2V"],
   "Void Drifter (VD)": ["游"], // 苍穹游侠
   "Violet Executor/Twilight Paladin (VE/TP)": ["紫"],
   "White Comet (WC)": ["白"],
